@@ -33,7 +33,7 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 12-Fetch the top 5 athletes who have won the most medals (gold/silver/bronze).
 
--Fetch the top 5 most successful countries in olympics. Success is defined by no of medals won.
+13-Fetch the top 5 most successful countries in olympics. Success is defined by no of medals won.
 
 -List down total gold, silver and broze medals won by each country.
 

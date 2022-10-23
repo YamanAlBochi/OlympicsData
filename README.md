@@ -19,9 +19,9 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 5-Which nation has participated in all of the olympic games?
 
--Identify the sport which was played in all summer olympics.
+6-Identify the sport which was played in all summer olympics.
 
--Which Sports were just played only once in the olympics?
+7-Which Sports were just played only once in the olympics?
 
 -Fetch the total no of sports played in each olympic games.
 

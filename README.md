@@ -15,9 +15,9 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 3-Mention the total no of nations who participated in each olympics game?
 
--Which year saw the highest and lowest no of countries participating in olympics?
+4-Which year saw the highest and lowest no of countries participating in olympics?
 
--Which nation has participated in all of the olympic games?
+5-Which nation has participated in all of the olympic games?
 
 -Identify the sport which was played in all summer olympics.
 

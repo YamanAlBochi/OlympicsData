@@ -25,7 +25,7 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 8-Fetch the total no of sports played in each olympic games.
 
--Fetch details of the oldest athletes to win a gold medal.
+9-Fetch details of the oldest athletes to win a gold medal.
 
 -Find the Ratio of male and female athletes participated in all olympic games.
 

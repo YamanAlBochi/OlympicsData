@@ -9,7 +9,7 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 # List of all these 20 queries mentioned below:
 
 
--How many olympics games have been held?
+1-How many olympics games have been held?
 
 -List down all Olympics games held so far.
 

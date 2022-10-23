@@ -39,7 +39,7 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 15-List down total gold, silver and broze medals won by each country corresponding to each olympic games.
 
--Identify which country won the most gold, most silver and most bronze medals in each olympic games.
+16-Identify which country won the most gold, most silver and most bronze medals in each olympic games.
 
 -Identify which country won the most gold, most silver, most bronze medals and the most medals in each olympic games.
 

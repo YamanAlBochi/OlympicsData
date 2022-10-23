@@ -41,12 +41,12 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 16-Identify which country won the most gold, most silver and most bronze medals in each olympic games.
 
--Identify which country won the most gold, most silver, most bronze medals and the most medals in each olympic games.
+17-Identify which country won the most gold, most silver, most bronze medals and the most medals in each olympic games.
 
--Which countries have never won gold medal but have won silver/bronze medals?
+18-Which countries have never won gold medal but have won silver/bronze medals?
 
--In which Sport/event, India has won highest medals.
+19-In which Sport/event, India has won highest medals.
 
--Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
+20-Break down all olympic games where india won medal for Hockey and how many medals in each olympic games.
 
 

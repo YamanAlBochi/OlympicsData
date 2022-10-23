@@ -29,7 +29,7 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 10-Find the Ratio of male and female athletes participated in all olympic games.
 
--Fetch the top 5 athletes who have won the most gold medals.
+11-Fetch the top 5 athletes who have won the most gold medals.
 
 -Fetch the top 5 athletes who have won the most medals (gold/silver/bronze).
 

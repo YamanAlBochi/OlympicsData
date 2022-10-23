@@ -11,15 +11,15 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 1-How many olympics games have been held?
 
--List down all Olympics games held so far.
+2-List down all Olympics games held so far.
 
--Mention the total no of nations who participated in each olympics game?
+3-Mention the total no of nations who participated in each olympics game?
 
 -Which year saw the highest and lowest no of countries participating in olympics?
 
 -Which nation has participated in all of the olympic games?
 
-2-Identify the sport which was played in all summer olympics.
+-Identify the sport which was played in all summer olympics.
 
 -Which Sports were just played only once in the olympics?
 

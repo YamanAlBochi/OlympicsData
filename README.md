@@ -23,7 +23,7 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 7-Which Sports were just played only once in the olympics?
 
--Fetch the total no of sports played in each olympic games.
+8-Fetch the total no of sports played in each olympic games.
 
 -Fetch details of the oldest athletes to win a gold medal.
 

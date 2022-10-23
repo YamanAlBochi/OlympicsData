@@ -19,7 +19,7 @@ I have come up with 20 different SQL queries which we can write on this Olympics
 
 -Which nation has participated in all of the olympic games?
 
--Identify the sport which was played in all summer olympics.
+2-Identify the sport which was played in all summer olympics.
 
 -Which Sports were just played only once in the olympics?
 

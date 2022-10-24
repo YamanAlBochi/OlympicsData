@@ -4,6 +4,7 @@ This dataset provides an opportunity to ask questions about how the Olympics hav
 
 I start this project by downloading the Olympics history dataset from kaggle website. I then load this dataset into a Jupyter Notebook (Open source Software), to perform Analysis and answer some questions about the dataset.
 
+For Visualization and Analysis, Please check The Jupyter Notebook.
 
 
 
